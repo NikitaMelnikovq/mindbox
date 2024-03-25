@@ -1,3 +1,5 @@
+# Большая просьба не сильно ругать за этот код, так как я до этого вообще ни разу не слышал про pyspark ^_^
+
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col
 
